@@ -1,0 +1,4 @@
+displayName = Your Mod Name
+author = Your Name
+version = 0.1
+modReferences = TeaFramework
